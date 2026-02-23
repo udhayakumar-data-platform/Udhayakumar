@@ -1,5 +1,7 @@
 # 🚀 Udhayakumar A  
 
+📍 India | Open to Data Engineering & Technical Data Platform Roles
+
 ## Technical Data Platform & Analytics Professional  
 
 I design and build end-to-end data systems — from ingestion to transformation, modeling, and analytics dashboards.
